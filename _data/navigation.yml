@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: About Us
+  url: /about
+  excerpt: "Everything there is to know about Johnson Drafting."
+  image: jd-seal-95.png
+
+- title: Portfolio
+  url: /portfolio
+  excerpt: "Things I’ve designed, illustrated, developed, for clients and on my own."
+  image: jd-seal-95.png
+
+- title: Contact Us
+  url: /contact
+  excerpt: "Contacting Johnson Drafting is an excelent idea!"
+  image: jd-seal-95.png
