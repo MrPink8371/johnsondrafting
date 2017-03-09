@@ -6,6 +6,6 @@ comments: false
 
 ---
 
-## Will this Portfolio work?
+## Portfolio of my Work?
 
-Who the fuck knows! I gues we will find out soon enough!
+Coming soon! A detail rich sample of my work.
