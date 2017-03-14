@@ -5,7 +5,7 @@ description: "Johnson Drafting is all about creating quality CAD projects."
 logo: jd-seal-120x120.png
 teaser: jd-logo-400x250.gif
 locale: en
-url: 
+url: http://johnsondrafting.com
 feed:
   path: atom.xml
 
@@ -29,7 +29,7 @@ owner:
   name: Chris Johnson
   email: Chris@johnsondrafting.com
   twitter:
-  google:
+  google: https://plus.google.com/107377365217634074304
     ad-client:
     ad-slot:
   bio:
