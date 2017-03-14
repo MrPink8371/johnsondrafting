@@ -2,10 +2,10 @@
 
 title: "Johnson Drafting"
 description: "Johnson Drafting is all about creating quality CAD projects."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: jd-seal-120x120.png
+teaser: jd-logo-400x250.gif
 locale: en
-url: http://johnsondrafting.com
+url: 
 feed:
   path: atom.xml
 
