@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2
 permalink: /
 
 ---
@@ -12,7 +12,7 @@ permalink: /
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
-<div id="page-wrap">
+<div id="page-wrapper">
       <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
 
 
@@ -48,5 +48,5 @@ permalink: /
 				</div><!-- /.page-content -->
 		</div>
 	</div><!-- /.archive-wrap -->
-
+{% include footer.html %}
 </div><!-- /.wrap -->
