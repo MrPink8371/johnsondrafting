@@ -26,7 +26,7 @@ permalink: /
 			            <div class="tiles">
 							<div class="tile">
 							  <h2 class="post-title">AutoDesk CAD</h2>
-							  <p class="post-excerpt">With over 15 years of experience using AutoDeskCAD we have the knowledge to complete your project regardless of the complexity.</p>
+							  <p class="post-excerpt">With over 20 years of experience using AutoDeskCAD we have the knowledge to complete your project regardless of the complexity.</p>
 							</div><!-- /.tile -->
 
 							<div class="tile">
