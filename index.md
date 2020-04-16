@@ -31,7 +31,7 @@ permalink: /
 
 							<div class="tile">
 							  <h2 class="post-title">Hand Drawn to CAD</h2>
-							  <p class="post-excerpt">Converting hand drawn plans to CAD is a skill not all AutoCAD professionals have. We have extensive experience in doing this.</p>
+							  <p class="post-excerpt">Converting hand drawn plans to CAD is a skill not every AutoCAD professionals have. We have extensive experience in doing this.</p>
 							</div><!-- /.tile -->
 
 							<div class="tile">
